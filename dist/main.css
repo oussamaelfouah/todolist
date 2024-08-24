@@ -1,0 +1,25 @@
+/*!******************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/styles.css ***!
+  \******************************************************************/
+#main-container {
+  display: flex;
+}
+#side {
+  background-color: rgb(255, 145, 0);
+  width: 200px;
+  height: 100vh;
+  display: flex;
+}
+#addproject {
+  padding: 5px 10px;
+  height: 30px;
+  margin: 10px auto;
+  border: none;
+}
+#form {
+  display: block;
+  background-color: rgb(177, 177, 159);
+  width: 300px;
+  height: 300px;
+  display: none;
+}
